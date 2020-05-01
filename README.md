@@ -1,1 +1,2 @@
-Launch School told me to do this.
+Launch School told me to do this. 
+Edited for second attempt.
